@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">#c4b9b9</color>
+    <color name="black">#d2903b</color>
+    <color name="legacy_primary_dark">#171717</color>
+    <color name="yellow">#de9b45</color>
+    <color name="legacy_light_primary_dark">#f4d689</color>
+    <color name="asd">#030000</color>
+    <color name="as">#fefdfd</color>
+    <color name="qw">#080707</color>
+    <color name="colorPrimary">#F50057</color>
+    <color name="colorPrimaryDark">#F50057</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title">#4c4c4c</color>
+</resources>

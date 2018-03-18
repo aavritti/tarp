@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "296167777180",
+    "firebase_url": "https://medicine-dispenser-b37c9.firebaseio.com",
+    "project_id": "medicine-dispenser-b37c9",
+    "storage_bucket": "medicine-dispenser-b37c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296167777180:android:7695f7508fa65063",
+        "android_client_info": {
+          "package_name": "com.example.dell.myapplicationtarp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296167777180-dggdebtdhgr25q6ssct9nff7ij7pp8nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5DBlECGwK3wPH5PYFeuiXFH1KEprJFx0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296167777180:android:57deac3bb4b6b7c6",
+        "android_client_info": {
+          "package_name": "com.example.anushka.qrcodescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296167777180-dggdebtdhgr25q6ssct9nff7ij7pp8nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5DBlECGwK3wPH5PYFeuiXFH1KEprJFx0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296167777180:android:5f101c5478a03343",
+        "android_client_info": {
+          "package_name": "com.example.dell.myapplicationtarp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296167777180-slspu8afriuf2ulh8crci3gssaaf5olo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.myapplicationtarp1",
+            "certificate_hash": "284788226f56548c745714faab7db2aa803df542"
+          }
+        },
+        {
+          "client_id": "296167777180-dggdebtdhgr25q6ssct9nff7ij7pp8nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5DBlECGwK3wPH5PYFeuiXFH1KEprJFx0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296167777180-dggdebtdhgr25q6ssct9nff7ij7pp8nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

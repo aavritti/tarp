@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_settings" type="id">1</item>
+    <item name="profile" type="id">profile</item>
+    <item name="contactus" type="id">contact</item>
+    <item name="about" type="id">about</item>
+    <item name="listview1" type="id">1</item>
+    <item name="textView3" type="id">tc</item>
+
+</resources>

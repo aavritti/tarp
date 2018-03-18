@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application tarp</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">LOVE MUSIC</string>
+    <string name="backdrop_subtitle">This season top 20 albums</string>
+    <string name="contactus">Contact Us</string>
+    <string name="about">About</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="listview1">list</string>
+
+</resources>
